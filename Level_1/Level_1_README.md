@@ -139,6 +139,29 @@ You do not need to install Python locally.
 
 A free Colab account is sufficient for the intended exercises.
 
+## What LLM should I use
+Use any capable model that you can access in an approved way. If you run these notebooks under Google colab, you could, for example, directly use Google's Gemini which you can access pressing the "toggle Gemini" button at the buttom of the page.
+
+However, the exact model is intentionally not part of the lesson because available models and interfaces change quickly.
+
+Examples of possible access patterns include:
+
+```text
+open-weight model in a browser interface
+open-weight model hosted by your institution
+local model through Ollama / LM Studio
+approved research compute
+```
+
+For these lessons, the model only sees:
+
+```text
+public dataset names
+generic Python code
+generic error messages
+```
+
+
 ## What you should bring
 
 - a laptop;
