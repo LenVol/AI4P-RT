@@ -49,6 +49,8 @@ The central idea is:
 
 We use a small medical-imaging classification dataset so that we can focus on problem formulation, representation, dataset suitability, splitting, leakage, and exploratory analysis.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lenvol/AI4P-RT/blob/main/Level_2/Level2_Lesson01_Understanding_Data.ipynb]
+
 ### Lesson 2 — A First AI Model
 
 We then train a small neural network.
@@ -70,6 +72,9 @@ We want to understand:
 
 > What exactly did the model learn from the information we gave it?
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lenvol/AI4P-RT/blob/main/Level_2/Level2_Lesson02_My_First_AI_Model.ipynb]
+
+
 ### Lesson 3 — From Medical Images to Model-Ready Data with MONAI
 
 Next we build on a generic image to achieve a realistic medical-imaging data pipeline.
@@ -85,6 +90,9 @@ We use MONAI to look at:
 - patch sampling;
 - `Dataset`, `CacheDataset`, and `DataLoader`;
 - separate training and validation pipelines.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lenvol/AI4P-RT/blob/main/Level_2/Level2_Lesson03_MONAI_Data_Pipelines.ipynb]
+
 
 ### Lesson 4 — Our First 3D Segmentation Model with MONAI
 
@@ -109,6 +117,9 @@ sliding-window inference
 ↓
 3D segmentation
 ```
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lenvol/AI4P-RT/blob/main/Level_2/Level2_Lesson04_3D_Segmentation_with_MONAI.ipynb]
+
 
 ## What you should be comfortable with
 
