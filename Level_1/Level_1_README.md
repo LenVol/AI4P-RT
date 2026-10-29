@@ -55,6 +55,9 @@ Topics include:
 
 This lesson is educational material. Your institution's policies and applicable rules always take precedence over whats written here.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lenvol/AI4P-RT/blob/main/Level_1/Level1_Lesson01_Before_You_Paste_Colab.ipynb]
+
+
 ### Lesson 2 — From Prompt to Program
 
 We start with the basic question:
@@ -73,6 +76,7 @@ Topics include:
 - recognizing unnecessary complexity;
 - distinguishing **"the code ran"** from **"the code is correct."**
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lenvol/AI4P-RT/blob/main/Level_1/Level1_Lesson02_From_Prompt_to_Program_Colab.ipynb]
 
 
 ### Lesson 3 — Build a Small AI Pipeline with an LLM
@@ -89,6 +93,9 @@ verification
 ```
 
 You do not need to understand every component in detail. You should, however, be able to explain what the code does and judge its scientific accuracy.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lenvol/AI4P-RT/blob/main/Level_1/Level1_Lesson03_Build_a_Segmentation_Model_with_an_Open_LLM.ipynb]
+
 
 ### Lesson 4 — Debugging and Reviewing LLM-Generated Code
 
@@ -107,6 +114,9 @@ We look at:
 - testing behaviour before and after refactoring;
 - hidden notebook state and reproducibility;
 - asking an LLM to review code without treating agreement as evidence.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lenvol/AI4P-RT/blob/main/Level_1/Level1_Lesson04_Debugging_and_Reviewing_LLM_Code.ipynb]
+
 
 ## Which LLM should I use?
 
